@@ -1,0 +1,19 @@
+header {
+    background-color: lightblue;
+    border: 10px solid black;
+}
+
+ul {
+    display: inline;
+}
+
+img {
+    display:block;
+    width: 200px;
+    height: 200px;
+}
+
+.text-right {
+    text-align: right;
+}
+
